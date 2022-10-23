@@ -27,4 +27,7 @@ The Web-Scraper Github repository contains 4 files:
 4. A list of possible categories will be displayed and it will prompt you to enter a category. Enter a category.
 5. A list of possible subcategories will be displayed and it will prompt you to enter a subcategory. Enter a subcategory.
 6. Figure 1 of 4 will appear displaying 2 bar graphs. The first displays the price of each item and the second displays the discount amount of each item. The X-axis displays the different item numbers. Close the figure.
-7. Figure 2 of 4 will appear displaying 4 violin plots. The first shows 
+7. Figure 2 of 4 will appear displaying 4 violin plots. The first shows the average price for items in the chosen subcategory while the second shows the average price of all items in the chosen category. The thrird and fourth plots show the same thing but with the average discount rather than the average price.
+8. Figure 3 of 4 will appear displaying two 3D scatter plots. The left plot shows the price distrubution of items on xymoxdrumco.com while the right plot shows the price distribution of items on lonestarpercussion.com.
+9. Figure 4 of 4 will apear displaying 2 box plots. The first shows the average price of items on each website while the second shows the average discount for items on each website.
+10. After closing the fourth figure, the program will prompt you for an item number. If a correct item number is entered then all information on that item will be displayed. If -1 is entered then the program will end.
