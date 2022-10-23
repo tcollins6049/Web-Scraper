@@ -12,5 +12,14 @@ which compare prices and discounts between items.
 ---
 
 ### Contents
-The Web Scraper Github repository contains 4 files:
-* sel.py
+The Web-Scraper Github repository contains 4 files:
+* sel.py  // Scrapes both websites and loads information into JSON file (Creates attributes.json)
+* attributes.json // Contains the data obtained from scraping both websites
+* xymoxVisual.py  // Uses data from attributes.json to create visualizations
+* README.md // Contains information about the web scraper and instructions on how to run it
+
+---
+
+### How to Run
+1. ththth
+2. hththt
